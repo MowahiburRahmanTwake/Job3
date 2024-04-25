@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "539564234720",
+    "project_id": "job3-ac4b6",
+    "storage_bucket": "job3-ac4b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539564234720:android:35c29524bcda79bce53d85",
+        "android_client_info": {
+          "package_name": "org.freedu.locationsharingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq6qzS25V2lcurCzk0NN8TR_pgoMGPfLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
